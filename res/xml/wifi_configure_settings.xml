@@ -36,7 +36,6 @@
 
     <ListPreference
         android:key="wifi_timeout"
-        android:icon="@drawable/ic_wifi_off"
         android:title="@string/wifi_timeout"
         android:summary="@string/wifi_timeout_summary"
         android:entries="@array/custom_timeout_entries"
